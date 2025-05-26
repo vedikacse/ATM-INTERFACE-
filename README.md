@@ -1,32 +1,26 @@
-# ATM-INTERFACE-
-Launched a project | ATM INTERFACE System 
- I'm excited to share the ATM INTERFACE project 
-I recently developed as part of learning journey at Government College of engineering yavatmal (CSE)
+🎉 Project Launched: ATM INTERFACE System
+I'm thrilled to share the ATM INTERFACE project I recently developed as part of my learning journey at Government College of Engineering, Yavatmal (CSE Department).
 
-project Overview: 
-this is a console -based ATM simulation system built using C langauge.it offer's basic Banking features that simulates real-world ATM INTERFACE operations.
+📌 Project Overview:
+This is a console-based ATM simulation system developed using the C programming language. It replicates basic real-world ATM functionalities, offering a hands-on experience in building a banking interface.
 
-key features:
-secure login using card 
-Number and PIN verification 
+🔑 Key Features:
+🔐 Secure Login: Card number and PIN verification
 
-Balance inquiry 
-withdraw cash (with sufficient balance check)
+💰 Balance Inquiry
 
-Deposite cash
+🏧 Cash Withdrawal (with sufficient balance validation)
 
-change pin 
+💵 Cash Deposit
 
-(validates old pin)
+🔄 PIN Change (validates old PIN before updating)
 
-Advantages:
-provided a practical understanding of object oriented programming (OOP)
+✅ Advantages:
+Gained practical exposure to modular programming and structured coding in C
 
+Improved skills in user input handling, conditional logic, and basic data storage
 
-Enhanced skills in user input handling, conditional check,and data storage 
+Developed a deeper understanding of real-world banking workflows
 
-This is my first code in C-Rush2.0
-
-output:
-![WhatsApp Image 2025-05-27 at 00 54 38_298ab0e5](https://github.com/user-attachments/assets/1576c259-b2c3-4642-9245-da7f643f38dd)
-
+This project marked my first submission for C-Rush2.0 — and I couldn’t be more excited about the outcome!
+![Uploading WhatsApp Image 2025-05-27 at 00.54.38_3c563043.jpg…]()
