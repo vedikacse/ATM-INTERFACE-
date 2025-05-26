@@ -23,4 +23,5 @@ Improved skills in user input handling, conditional logic, and basic data storag
 Developed a deeper understanding of real-world banking workflows
 
 This project marked my first submission for C-Rush2.0 — and I couldn’t be more excited about the outcome!
-![Uploading WhatsApp Image 2025-05-27 at 00.54.38_3c563043.jpg…]()
+![WhatsApp Image 2025-05-27 at 00 54 38_d34bc7ec](https://github.com/user-attachments/assets/8687f59b-507e-46bb-8f3f-8895f2bfde1f)
+
